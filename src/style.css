@@ -25,7 +25,7 @@ main {
   border-radius: 10px;
   padding: 10px 30px;
   width: 900px;
-  height: 583px;
+  min-height: 583px;
 }
 
 h2 {
